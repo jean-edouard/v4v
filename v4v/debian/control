@@ -1,0 +1,11 @@
+Source: v4v
+Section: kernel
+Priority: optional
+Maintainer: OpenXT Community
+Build-Depends: dkms
+
+Package: v4v-dkms
+Architecture: all
+Depends:
+Description: v4v
+ v4v driver for Linux
